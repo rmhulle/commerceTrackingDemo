@@ -1,11 +1,9 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fcommerce&project-name=commerce&repo-name=commerce&demo-title=Next.js%20Commerce&demo-description=An%20all-in-one%20starter%20kit%20for%20high-performance%20e-commerce%20sites.&demo-url=https%3A%2F%2Fdemo.vercel.store&demo-image=https%3A%2F%2Fbigcommerce-demo-asset-ksvtgfvnd.vercel.app%2Fbigcommerce.png&integration-ids=oac_MuWZiE4jtmQ2ejZQaQ7ncuDT)
-
 # Next.js Commerce
 
 The all-in-one starter kit for high-performance e-commerce sites. With a few clicks, Next.js developers can clone, deploy and fully customize their own store.
 Start right now at [nextjs.org/commerce](https://nextjs.org/commerce)
 
-Demo live at: [demo.vercel.store](https://demo.vercel.store/)
+Demo live at: [demo.vercel.store]()
 
 This project is currently <b>under development</b>.
 
@@ -30,7 +28,6 @@ We're using Github Projects to keep track of issues in progress and todo's. Here
 Next.js Commerce integrates out-of-the-box with BigCommerce. We plan to support all major ecommerce backends.
 
 If you wish to work on a new cms/headless ecommerce provider, please check this repo https://github.com/vercel/commerce-framework and open a PR with your functions and utilities under the standard mentioned in the README.
-
 
 ## Troubleshoot
 
@@ -74,9 +71,6 @@ BigCommerce team has been notified and they plan to add more detailed about this
 <br>
 Report issue with Data Hooks here: https://github.com/bigcommerce/storefront-data-hooks
 </details>
-
-
-
 
 ## Contribute
 
